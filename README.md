@@ -36,5 +36,6 @@ THEN the password is either displayed in an alert or written to the page
 ## Link to site
 
 ```
+https://meerkat501.github.io/PasswordGen/
 
 ```
